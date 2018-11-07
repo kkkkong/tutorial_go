@@ -5,4 +5,6 @@ func main() {
 
 	str := []string{"even", "odd"}
 
+	for _, number := range number
+
 }
